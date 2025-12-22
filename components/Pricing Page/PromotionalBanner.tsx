@@ -96,7 +96,7 @@ export const PromotionalBanner = ({
               className="flex gap-1.5 justify-center items-center px-1 py-3 w-full min-h-10 rounded-[1000px]"
             >
               <div className="flex flex-col justify-center self-stretch my-auto w-[76px]">
-                <span>Buy on Call</span>
+                <span>Get in Touch</span>
                 <div className="w-full border border-sky-700 border-solid min-h-px" />
               </div>
             </a>
