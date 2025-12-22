@@ -49,10 +49,10 @@ export const PricingCard = ({
       {!isCustom ? (
         <div className="mt-5 w-full text-2xl">
           <button className="gap-1.5 self-stretch px-7 py-3.5 w-full bg-white border-2 border-pink-600 border-solid min-h-[55px] rounded-[1000px] text-stone-900 max-md:px-5">
-            Get Free Trial
+            Get Started
           </button>
           <button className="overflow-hidden gap-1.5 self-stretch px-7 py-3.5 mt-4 w-full text-white bg-pink-600 min-h-[55px] rounded-[1000px] max-md:px-5">
-            Buy Now
+            Get in Touch
           </button>
         </div>
       ) : (
