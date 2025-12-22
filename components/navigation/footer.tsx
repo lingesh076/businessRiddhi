@@ -24,8 +24,8 @@ const footerData = [
       { name: "Team", link: "/about#team" },
       { name: "Blog", link: "/blogs" },
       {
-        name: "Free Business Listing",
-        link: "https://docs.google.com/forms/d/e/1FAIpQLSdzEFmkrANFYzdrmSZrjVgeOm_TJspc6q2yi-SgpuRuh_lrAQ/viewform",
+        name: "Onboard as Resource Provider",
+        link: "https://luma.com/z6mf925b",
       },
     ],
   },
@@ -35,7 +35,7 @@ const footerData = [
       { name: "Terms & Conditions", link: "/tnc" },
       { name: "Cookie Policy", link: "/tnc#cookie" },
       { name: "Privacy Policy", link: "/tnc#privacy" },
-      { name: "Partner With Us", link: "/partner-with-us" },
+      
     ],
   },
 ];
